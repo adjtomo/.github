@@ -19,7 +19,7 @@ Auxiliary repositories include:
 - [PyFlex](https://github.com/adjtomo/pyflex)*: A Python port of FLEXWIN, automated window picking algorithm for seismic imaging 
 - [PyAdjoint](https://github.com/adjtomo/pyadjoint)*: Waveform misfit functionals and adjoint source generation
 
-*\* These packages are wrapped by Pyatoa and do not need to be installed or called standalone*
+*\* These packages are wrapped into Pyatoa and do not need to be installed or called standalone*
 
 
 
