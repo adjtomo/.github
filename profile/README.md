@@ -1,6 +1,4 @@
-# adjTomo
-
-adjTomo (*an abbreviation of 'adjoint tomography'*) is an organization for tools related to the scientific problems of 
+**adjTomo** (*an abbreviation of 'adjoint tomography'*) is an organization for tools related to the scientific problems of 
 seismic imaging, adjoint tomography and full waveform inversion. These tools are Python-based, open-source and community driven. 
 
 Although independent, the adjTomo organization is intimately intertwined with the open-source numerical solver, [SPECFEM](specfem.org). 
