@@ -16,6 +16,7 @@ The **main** repositories in this organization are:
 Auxiliary repositories include:
 
 - [adjDocs](https://github.com/adjtomo/adjdocs): Workshop and teaching materials related to adjTomo packages and SPECFEM
+- [wfdiff](https://github.com/adjtomo/wfdiff): **W**ave**f**orm **diff**erences to determine finite-element mesh minimum resolvable period  
 - [PyFlex](https://github.com/adjtomo/pyflex)*: A Python port of FLEXWIN, automated window picking algorithm for seismic imaging 
 - [PyAdjoint](https://github.com/adjtomo/pyadjoint)*: Waveform misfit functionals and adjoint source generation
 
